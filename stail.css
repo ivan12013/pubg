@@ -1,0 +1,74 @@
+body{
+    padding: 2%;
+}
+h1{
+    font-family: 'Play', sans-serif;
+}
+div{
+    font-family: 'Play', sans-serif;
+}
+.menu{
+    height: 100px;
+    background-color: rgb(207, 211, 211);
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    margin: 20px;
+}
+a{
+    text-decoration:none;
+    border: 1px groove transparent;
+}
+a:hover{
+    border: 2px groove red;
+}
+.history{
+    background-color: #78e08f;
+    padding: 10px;
+
+}
+.history h1{
+    display: flex;
+    justify-content: center;
+}
+.video{
+    display: flex;
+    justify-content: center;
+}
+.letsplay{
+    justify-content: center;
+}
+.letsplay h1{
+    display: flex;
+    justify-content: center;
+}
+iframe{
+    margin: 15px;
+}
+.achievements{
+    background-color: #48dbfb;
+    padding-bottom: 30px;
+}
+.achievements h1{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.achievements img{
+    width: 90%;
+    margin: 20px;
+}
+.hisText{
+    margin: 20px;
+}
+.titles h1{
+    justify-content: center;
+    display: flex;
+}
+.titles{
+    background-color:#B3F36D;
+    margin:20px;
+    padding:10px;
+
+}
+
